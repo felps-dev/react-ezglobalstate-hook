@@ -1,12 +1,16 @@
 {
   "name": "react-ezglobalstate-hook",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A reactive state with localstorage and SWR",
-  "main": "index.ts",
+  "main": "lib/index.js",
   "repository": "https://github.com/felps-dev/react-ezglobalstate-hook",
   "author": "Felipe Correa <eu@felps.dev>",
   "license": "MIT",
   "dependencies": {
     "swr": "^0.2.3"
-  }
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  },
+  "types": "lib/index.d.ts"
 }
