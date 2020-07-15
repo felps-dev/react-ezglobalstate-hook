@@ -1,6 +1,6 @@
 {
   "name": "react-ezglobalstate-hook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A reactive state with localstorage and SWR",
   "main": "index.ts",
   "repository": "https://github.com/felps-dev/react-ezglobalstate-hook",
