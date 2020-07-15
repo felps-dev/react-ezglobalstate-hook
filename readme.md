@@ -45,7 +45,7 @@ export default function Component(){
     return (
         <div>
             <span>{`Actual value for myState is: ${myState}`}</span>
-            <button onClick={handleChange}>Increment</button>
+            <button onClick={handleChange}>Change Name</button>
         </div>
     )
 }
