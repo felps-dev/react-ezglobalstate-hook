@@ -1,18 +1,18 @@
-# React-GlobalState-Hook
+# React-EZGlobalState-Hook
 
 A reactive state with localstorage and SWR
 
 ## Reference
 
-`npm i --save react-globalstate-hook`  
+`npm i --save react-ezglobalstate-hook`  
 or  
-`yarn add react-globalstate-hook`
+`yarn add react-ezglobalstate-hook`
 
 ```javascript
 import {
     useGlobalState,
     setGlobalState
-} from 'react-globalstate-hook';
+} from 'react-ezglobalstate-hook';
 ```
 ### useGlobalState(key: string, initialValue: any):
 #
@@ -31,7 +31,7 @@ setGlobalState("unique_key", "value");
 import {
     useGlobalState,
     setGlobalState
-} from 'react-globalstate-hook';
+} from 'react-ezglobalstate-hook';
 
 export default function Component(){
     //Is this case, Hello World is the primary value if we
