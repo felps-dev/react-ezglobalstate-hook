@@ -1,6 +1,6 @@
 # React-EZGlobalState-Hook
 
-A reactive state with localstorage and SWR
+A reactive state with localstorage and SWR.
 
 ## Reference
 
